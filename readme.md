@@ -13,9 +13,9 @@ To run the tests, you would need
 * node (I use 20v)
 * npm (I use 9.6.4)
 
-To run the tests, downloda/clone it to your local machine, then navigate to the root directory of this project, execute 
+To run the tests, downlode/clone it to your local machine, then navigate to the root directory of this project, execute 
 * `npm install`, and then 
-* `npm test`, \
+* `npm test` \
 and tests should start executing (if they don't please let me know, but they should 🙂 ). I did it on Mac, so Macs and Linuxes should be fine.
 If you want to play around, run `npx cypress open`, it will show you UI with possibility to 'see' the tests and do some operations over them.
 
